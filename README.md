@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya!
-- 👀 I’m curious about data science, data visualization, machine learning cryptocurrency, and more! 
+- 👀 I’m curious about data science, data visualization, machine learning, cryptocurrency, and more! 
 - 🌱 I’m currently learning SQL and Tableau, among other data science tools.
 - 💞️ I’m looking to collaborate on interesting data science projects that help elucidate more about our world and how it's changing.
 - 📫 You can reach me at aditya2001adi@gmail.com
