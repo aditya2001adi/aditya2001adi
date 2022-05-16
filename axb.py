@@ -1,4 +1,5 @@
 import numpy as np 
+import pandas as pd
 print("Enter each row of your first matrix. After you've entered the last row, enter an empty row.")
 A = []
 while True:
