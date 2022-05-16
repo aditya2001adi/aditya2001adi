@@ -5,7 +5,7 @@ while True:
     a = input("Row:") #input Rows
     if not a.strip():
         break #break after user inputs empty row
-    A.append(list(map(int, a.split()))) #append rows to list of lists
+    A.append(list(map(float, a.split()))) #append rows to list of lists
 
 
 print("A = ", A)
@@ -20,7 +20,7 @@ while True:
     b = input("Row:") #input rows of second matrix
     if not b.strip():
         break #break after user inputs empty row
-    B.append(list(map(int, b.split()))) #append rows to list of lists
+    B.append(list(map(float, b.split()))) #append rows to list of lists
 
 print("B = ", B)
 
